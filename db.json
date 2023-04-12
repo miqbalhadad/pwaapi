@@ -1,6 +1,5 @@
-[
 "products":
-{"id":1,"name":"Frog (unidentified)","category":"Indigo"},
+[{"id":1,"name":"Frog (unidentified)","category":"Indigo"},
 {"id":2,"name":"Black-winged stilt","category":"Green"},
 {"id":3,"name":"Starling, greater blue-eared","category":"Pink"},
 {"id":4,"name":"Caiman, spectacled","category":"Aquamarine"},
