@@ -1,3 +1,4 @@
+{
 "products":
 [{"id":1,"name":"Frog (unidentified)","category":"Indigo"},
 {"id":2,"name":"Black-winged stilt","category":"Green"},
@@ -20,3 +21,4 @@
 {"id":19,"name":"Cat, civet","category":"Orange"},
 {"id":20,"name":"Heron, goliath","category":"Fuscia"}
 ]
+}
